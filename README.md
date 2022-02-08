@@ -1,2 +1,2 @@
 # templates
-This repository contains template codes for different machine learning and signal processing tasks.
+This repository contains template codes for different machine learning and signal processing tasks (work in progress).
