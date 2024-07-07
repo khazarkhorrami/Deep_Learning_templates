@@ -67,3 +67,7 @@ nonzero_rows_df = df[~all_zeros].copy()
 
 # Create another DataFrame with only the rows where all feature columns are zero
 zero_rows_df = df[all_zeros].copy()
+
+
+        
+
